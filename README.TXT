@@ -35,6 +35,7 @@ EasyShutdown - Version 1.1.1
 
 　おまけ
     Visual Studio 2022を使って作ったんで、もやししたら古いWindowsでは使えないかもしれないけど、許して♡
+    1.1.1以前の奴のソースコードはなくしました。
     一応、うちのＰＣ（これを作ったＰＣ）のスペ:
     　OS: Windows 11 (24H2)
     　CPU: Intel Core i7 12Gen
